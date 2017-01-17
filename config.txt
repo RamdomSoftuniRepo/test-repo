@@ -1,8 +1,12 @@
 name: alexandr
 size: 100
 email: blablablab@sags
+<<<<<<< HEAD
 
 
 name: Nikolay
 size: 100
 email: filirien@abv.bg
+=======
+Phone number: +1 999 999 999 9
+>>>>>>> acd9a30348cb30c7ea94cbe64903fe496b08f88f
