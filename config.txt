@@ -1,3 +1,4 @@
 name: alexandr
 size: 100
 email: blablablab@sags
+Phone number: +1 999 999 999 9
