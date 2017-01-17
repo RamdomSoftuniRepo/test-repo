@@ -2,7 +2,7 @@ name: alexandr
 size: 100
 email: blablablab@sags
 <<<<<<< HEAD
-
+BranchTest read
 
 name: Nikolay
 size: 100
